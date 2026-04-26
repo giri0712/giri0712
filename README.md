@@ -33,10 +33,9 @@ I believe in letting code speak louder than words.
 * Distributed systems & edge computing
 * Java/JVM ecosystem (Project Loom, Virtual Threads)
 * Backend architecture patterns
-* Real-world security systems — contributing to a Cyber Crime dept. project in Andhra Pradesh
 
 ### 📚 Currently studying
-* **CSE (AI/ML) @ VIT-AP** | Student ID: 24bca7698
+* **CSE (AI/ML) @ VIT-AP**
 * **Interests:** Machine Learning theory, DBMS, System Design
 
 ---
@@ -72,11 +71,3 @@ I believe in letting code speak louder than words.
 </div>
 
 <p align="center"><i>Projects first. Always.</i></p>
-![](https://streak-stats.demolab.com/?user=giri0712&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=giri0712&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-[![](https://komarev.com/ghpvc/?username=giri0712&icon=0&color=0)](https://visitcount.itsvg.in)
