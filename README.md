@@ -33,10 +33,12 @@ I believe in letting code speak louder than words.
 * Distributed systems & edge computing
 * Java/JVM ecosystem (Project Loom, Virtual Threads)
 * Backend architecture patterns
+* Creating a AI Paper Correction Tool(APCT) using LLMs
+* ML Research Paper on Wafermaps defect detection using CNN and other 
 
 ### 📚 Currently studying
 * **CSE (AI/ML) @ VIT-AP**
-* **Interests:** Machine Learning theory, DBMS, System Design
+* **Interests:** Machine Learning, DBMS, System Design, DSA,Software Testing,LLM, AI
 
 ---
 
