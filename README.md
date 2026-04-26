@@ -1,15 +1,77 @@
 # 💫 About Me:
-Hi, I'm Giri 👋<br>2nd-year CSE (AI/ML) undergrad at VIT-AP University, building my path toward backend development — one project at a time.<br>I believe in letting code speak louder than words.<br><br>🔧 What I work with<br>Languages & Frameworks — Java, Spring Boot, Python, FastAPI<br>Databases — MongoDB, PostgreSQL<br>Other — REST APIs, JWT Auth, Git<br><br>🚀 What I'm building<br>SkillBridge — A skill-first hiring platform connecting students with SMEs through gamified challenges. Think hiring based on what you can do, not just what your resume says.<br>SiGo — A Spring Boot + MongoDB API that tracks live precious metal prices, deployed on Render.<br><br>🌱 What I'm exploring<br><br>Distributed systems & edge computing<br>Java/JVM ecosystem (Project Loom, Virtual Threads)<br>Backend architecture patterns<br>Real-world security systems — contributing to a Cyber Crime dept. project in Andhra Pradesh<br><br><br>📚 Currently studying<br>CSE (AI/ML) @ VIT-AP | Student ID: 24bca7698<br>Interests: Machine Learning theory, DBMS, System Design<br><br>📫 Let's connect<br><br>GitHub: @giri0712<br>Location: Andhra Pradesh, India<br><br><br>Projects first. Always.
+Hi, I'm Giri 👋
+2nd-year CSE (AI/ML) undergrad at VIT-AP University, building my path toward backend development — one project at a time.
+I believe in letting code speak louder than words.
 
+<br/>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/giri_0712) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/girimurugan-s-060) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:girimurugansenthilvel@gmail.com) 
+## 🌐 Connect with me:
+<div align="left">
+  <a href="https://www.linkedin.com/in/girimurugan-s-060923349" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:girimurugansenthilvel@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://instagram.com/giri_0712" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</div>
+
+---
+
+### 🔧 What I work with
+* **Languages & Frameworks** — Java, Spring Boot, Python, FastAPI
+* **Databases** — MongoDB, PostgreSQL
+* **Other** — REST APIs, JWT Auth, Git
+
+### 🚀 What I'm building
+* **SkillBridge** — A skill-first hiring platform connecting students with SMEs through gamified challenges.
+* **SiGo** — A Spring Boot + MongoDB API that tracks live precious metal prices, deployed on Render.
+
+### 🌱 What I'm exploring
+* Distributed systems & edge computing
+* Java/JVM ecosystem (Project Loom, Virtual Threads)
+* Backend architecture patterns
+* Real-world security systems — contributing to a Cyber Crime dept. project in Andhra Pradesh
+
+### 📚 Currently studying
+* **CSE (AI/ML) @ VIT-AP** | Student ID: 24bca7698
+* **Interests:** Machine Learning theory, DBMS, System Design
+
+---
 
 # 💻 Tech Stack:
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=flat&logo=Apache%20Maven&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=flat&logo=selenium&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+
+### 🛠 Backend & Infrastructure
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=flat&logo=Apache%20Maven&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=flat&logo=selenium&logoColor=white)
+
+### ☁ Cloud & Deployment
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7)
+
+### 🤖 AI/ML & Data
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34)
+
+---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=giri0712&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+<p align="left">
+<img src="https://github-readme-stats.shion.dev/api?username=giri0712&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
+<br/>
+<img src="https://streak-stats.demolab.com/?user=giri0712&theme=dark&hide_border=false" />
+<br/>
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=giri0712&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+</p>
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=giri0712&icon=0&color=0" alt="Views" />
+</div>
+
+<p align="center"><i>Projects first. Always.</i></p>
 ![](https://streak-stats.demolab.com/?user=giri0712&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=giri0712&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
